@@ -3,12 +3,12 @@
     <group restype="x-trolltech-linguist-context" resname="AddressBookPage">
       <trans-unit id="_msg1">
         <source xml:space="preserve">Right-click to edit address or label</source>
-        <target>鼠标右击编辑地址或标签</target>
+        <target>单击鼠标右键编辑地址或标签</target>
         <context-group purpose="location"><context context-type="linenumber">37</context></context-group>
       </trans-unit>
       <trans-unit id="_msg2">
         <source xml:space="preserve">Create a new address</source>
-        <target>创建新地址</target>
+        <target>添加新地址</target>
         <context-group purpose="location"><context context-type="linenumber">64</context></context-group>
       </trans-unit>
       <trans-unit id="_msg3">
@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="_msg7">
         <source xml:space="preserve">Delete the currently selected address from the list</source>
-        <target>从列表中删除选中的地址</target>
+        <target>从列表中删除当前选中的地址</target>
         <context-group purpose="location"><context context-type="linenumber">98</context></context-group>
       </trans-unit>
       <trans-unit id="_msg8">
         <source xml:space="preserve">Enter address or label to search</source>
-        <target>输入地址或标签来搜索</target>
+        <target>输入地址或标签用来搜索</target>
         <context-group purpose="location"><context context-type="linenumber">27</context></context-group>
       </trans-unit>
       <trans-unit id="_msg9">
@@ -95,7 +95,7 @@
         <source xml:space="preserve">These are your Bitcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.
 Signing is only possible with addresses of the type 'legacy'.</source>
         <target>这是您用来收款的比特币地址。使用“接收”标签页中的“创建新收款地址”按钮来创建新的收款地址。
-只有“传统（legacy）”类型的地址支持签名。</target>
+只有“合法”类型的地址支持签名。</target>
         <context-group purpose="location"><context context-type="linenumber">109</context></context-group>
       </trans-unit>
       <trans-unit id="_msg19">
